@@ -1,5 +1,10 @@
 # AI_image_Description
 
+to run this program you will need to have a visionary ollama mode installed you can get one at the following link:
+
+https://ollama.com/library/llama3.2-vision
+
+
 to start the ai image description just run:
 
 
